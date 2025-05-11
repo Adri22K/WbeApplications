@@ -1,5 +1,5 @@
 # 📍 Aula WEB - Aplicações para Internet
-Esse repositorio será sobre o desenvolvimento de um site básico apenas para ensinamentos simples da matéria de Aplicações para Internet, curso de Sistemas de Informação.
+Esse repositorio será sobre o desenvolvimento de um site básico apenas para ensinamentos simples da matéria de Aplicações para Internet, curso de <strong> Sistemas de Informação </strong> 
 
 # ✏️ HTML
 Criação de um site com imagens, texto e tabelas formatadas contendo o conteúdo abaixo:
@@ -15,6 +15,8 @@ Criação de um site com imagens, texto e tabelas formatadas contendo o conteúd
 
 - HTML;
 - CSS;
+- VS CODE;
+- GITHUB;
 
 <div> 
   <h1> 🔗 Tecnologias Utilizadas</h1>
@@ -27,7 +29,10 @@ Criação de um site com imagens, texto e tabelas formatadas contendo o conteúd
 <h1> 👤 Integrantes </h1>
 <h3>Curso: Sistemas de Informação </h3>
 <p> 3° Semestre - Noturno </p>
-Professor Luis Ricardo  
 
+- Professor Luis Ricardo
+  
+<p> 
 - Adrielle Stollemberger RGM: 33948844
 - Victor Almeida RGM: 32901321
+</p>
