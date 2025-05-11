@@ -1,0 +1,41 @@
+/* Estilização CSS com TAG */
+
+/* estilização do fundo das páginas */
+body {
+      background-color: rgb(220, 223, 203);
+}
+
+
+h1 { 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+/* Estilização dos Links com CSS */
+
+/* link não-visitado */
+a:link {
+        color: black;
+        text-decoration: none;
+}
+
+/* link visitado */
+a:visited {
+           color: gray;
+}
+
+/* link com sobreposição do mouse */
+a:hover {
+         background-color: black;
+         color: white;
+}
+
+/* link ativado */
+a:active {
+          color: white;
+          text-decoration: underline;
+}
+/* Estilização CSS com TAG */
+
+.borda {
+    border-radius: 20px;
+}
