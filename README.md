@@ -34,5 +34,6 @@ Criação de um site com imagens, texto e tabelas formatadas contendo o conteúd
   
 <p> 
 - Adrielle Stollemberger RGM: 33948844
+<br>
 - Victor Almeida RGM: 32901321
 </p>
