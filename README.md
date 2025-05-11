@@ -26,7 +26,7 @@ Criação de um site com imagens, texto e tabelas formatadas contendo o conteúd
 
 <h1> 👤 Integrantes </h1>
 <h3>Curso: Sistemas de Informação </h3>
-3° Semestre - Noturno
+<p> 3° Semestre - Noturno </p>
 Professor Luis Ricardo  
 
 - Adrielle Stollemberger RGM: 33948844
